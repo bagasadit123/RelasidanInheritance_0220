@@ -58,8 +58,8 @@ public:
 };
 
 int main() {
-    Member m1("Rayhan", "rayhan@gmail.com", true);
-    Member m2("Budi", "budi@gmail.com", false);
+    Member m1("Bagas", "bagasadit@gmail.com", true);
+    Member m2("Arif", "akuunku@gmail.com", false);
 
     vector<Member> members;
     members.push_back(m1);
